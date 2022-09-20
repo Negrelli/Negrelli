@@ -1,0 +1,3 @@
+- 👋 Me chamo Negrelli
+- 👀 Estou aprendendo programação;
+- 🌱 Conhecimento nunca é demais!
